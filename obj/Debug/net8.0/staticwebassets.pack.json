@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AccessorieShopWebSite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AccessorieShopWebSite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\bileklik1.jpg",
+      "PackagePath": "staticwebassets\\images\\bileklik1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\bileklik2.jpg",
+      "PackagePath": "staticwebassets\\images\\bileklik2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\crab.jpg",
+      "PackagePath": "staticwebassets\\images\\crab.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\kupe1.jpg",
+      "PackagePath": "staticwebassets\\images\\kupe1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\kupe10.jpg",
+      "PackagePath": "staticwebassets\\images\\kupe10.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\kupe2.jpg",
+      "PackagePath": "staticwebassets\\images\\kupe2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\kupe3.jpg",
+      "PackagePath": "staticwebassets\\images\\kupe3.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\kupe4.jpg",
+      "PackagePath": "staticwebassets\\images\\kupe4.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\kupe5.jpg",
+      "PackagePath": "staticwebassets\\images\\kupe5.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\kupe6.jpg",
+      "PackagePath": "staticwebassets\\images\\kupe6.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\kupe7.jpg",
+      "PackagePath": "staticwebassets\\images\\kupe7.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\kupe8.jpg",
+      "PackagePath": "staticwebassets\\images\\kupe8.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\kupe9.jpg",
+      "PackagePath": "staticwebassets\\images\\kupe9.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\macbook1.png",
+      "PackagePath": "staticwebassets\\images\\macbook1.png"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\pinkprincess.jpg",
+      "PackagePath": "staticwebassets\\images\\pinkprincess.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\purpleprincess.jpg",
+      "PackagePath": "staticwebassets\\images\\purpleprincess.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\saturn.jpg",
+      "PackagePath": "staticwebassets\\images\\saturn.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\scorpio.jpg",
+      "PackagePath": "staticwebassets\\images\\scorpio.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\snowflake.jpg",
+      "PackagePath": "staticwebassets\\images\\snowflake.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\star.jpg",
+      "PackagePath": "staticwebassets\\images\\star.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\yuzuk1.jpg",
+      "PackagePath": "staticwebassets\\images\\yuzuk1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\yuzuk2.jpg",
+      "PackagePath": "staticwebassets\\images\\yuzuk2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\yuzuk3.jpg",
+      "PackagePath": "staticwebassets\\images\\yuzuk3.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\yuzuk4.jpg",
+      "PackagePath": "staticwebassets\\images\\yuzuk4.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\images\\yuzuk5.jpg",
+      "PackagePath": "staticwebassets\\images\\yuzuk5.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\WebProjects\\AccessorieShopWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AccessorieShopWebSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AccessorieShopWebSite.props",
+      "PackagePath": "build\\AccessorieShopWebSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AccessorieShopWebSite.props",
+      "PackagePath": "buildMultiTargeting\\AccessorieShopWebSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AccessorieShopWebSite.props",
+      "PackagePath": "buildTransitive\\AccessorieShopWebSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
